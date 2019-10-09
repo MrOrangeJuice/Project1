@@ -35,27 +35,27 @@ li {
     display: inline;
     margin-left: 5%;
     font-size: 1.5em;
-    transition-duration: 0.2em;
+    transition-duration: 0.2s;
 }
 
 .sublink {
     margin-left: 5%;
     font-size: 1.0em;
     display: inline;
-    transition-duration: 0.2em;
+    transition-duration: 0.2s;
 }
 
 @media screen and (min-width: 900px) {
     .title {
         margin-left: 25%;
         font-size: 2em;
-        transition-duration: 0.2em;
+        transition-duration: 0.2s;
     }
 
     .sublink {
         margin-left: 3%;
         font-size: 1.2em;
-        transition-duration: 0.2em;
+        transition-duration: 0.2s;
     }
 }
 
