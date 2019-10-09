@@ -1,0 +1,129 @@
+body {
+    color: black;
+    background-color: #82FF82;
+    font-family: 'Roboto', 'Sans-Serif';
+}
+
+i {
+    color: #910A3D;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    border-width: 1px;
+}
+
+li {
+    display: inline;
+}
+
+.normalUl {
+    list-style-type: circle;
+}
+
+.normalList {
+    display: block;
+    margin-left: 25%;
+}
+
+.title {
+    display: inline;
+    margin-left: 5%;
+    font-size: 1.5em;
+    transition-duration: 0.2em;
+}
+
+.sublink {
+    margin-left: 5%;
+    font-size: 1.0em;
+    display: inline;
+    transition-duration: 0.2em;
+}
+
+@media screen and (min-width: 900px) {
+    .title {
+        margin-left: 25%;
+        font-size: 2em;
+        transition-duration: 0.2em;
+    }
+
+    .sublink {
+        margin-left: 3%;
+        font-size: 1.2em;
+        transition-duration: 0.2em;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #5E239D;
+    transition-duration: 0.2s;
+}
+
+a:hover {
+    color: #1C7C54;
+    transition-duration: 0.2s;
+    font-size: 1.25em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: white;
+}
+
+#screenshotContainer {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+}
+
+.screenshot {
+    width: 40%;
+}
+
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+}
+
+.header {
+    text-align: center;
+}
+
+h2.header {
+    color: #5E239D;
+}
+
+.centerList {
+    text-align: center;
+    margin: 2rem;
+}
+
+h3 {
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #910A3D;
+}
+
+.date {
+    color: #910A3D;
+}
+
+footer {
+    text-align: right;
+    margin-right: 25%;
+}
+
+.noGrow:hover {
+    font-size: 1em;
+}
