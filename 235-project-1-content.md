@@ -7,7 +7,7 @@ ___________________________________________________________________
 * [Project](https://people.rit.edu/aap5033/235/Proposal/project.html)
 ___
 # Pong Ping
-![Screenshot](https://people.rit.edu/aap5033/235/Proposal/media/screenshot1.png "Screenshot")
+![Screenshot](https://people.rit.edu/aap5033/235/project1/media/screenshot1.png "Screenshot")
 ## What is Pong Ping?
 Pong Ping is a top-down, physics-based fighting game, where players must push other players off the stage or into walls
 while protecting themself. The game is somewhat similar in concept to the Streetsmash mode from *Super Smash Bros. for Nintendo 3DS*,
@@ -20,10 +20,10 @@ which puts the focus on the intense and dynamic gameplay.
 # proposal.html
 ___________________________________________________________________
 
-* # [Pong Ping](https://people.rit.edu/aap5033/235/Proposal/index.html)
-* [Proposal](https://people.rit.edu/aap5033/235/Proposal/proposal.html)
-* [Documentation](https://people.rit.edu/aap5033/235/Proposal/documentation.html)
-* [Project](https://people.rit.edu/aap5033/235/Proposal/project.html)
+* # [Pong Ping](https://people.rit.edu/aap5033/235/project1/index.html)
+* [Proposal](https://people.rit.edu/aap5033/235/project1/proposal.html)
+* [Documentation](https://people.rit.edu/aap5033/235/project1/documentation.html)
+* [Project](https://people.rit.edu/aap5033/235/project1/project.html)
 ___
 # Pong Ping Proposal
 
@@ -69,8 +69,8 @@ the player, so they can practice the parry mechanic. The player will need to lea
 defend themself in order to succeed past the tutorial.
 
 ## Screenshots
-![Screenshot 1](https://people.rit.edu/aap5033/235/Proposal/media/screenshot1.png "Screenshot 1")
-![Screenshot 2](https://people.rit.edu/aap5033/235/Proposal/media/screenshot2.png "Screenshot 2")
+![Screenshot 1](https://people.rit.edu/aap5033/235/project1/media/screenshot1.png "Screenshot 1")
+![Screenshot 2](https://people.rit.edu/aap5033/235/project1/media/screenshot2.png "Screenshot 2")
 
 ## About the Developer
 This game is designed by Alex Parrotto, a second-year Game Design and Development Major. I have skills in
@@ -82,10 +82,10 @@ at least twice a week! I can be reached at aap5033@rit.edu.
 # documentation.html
 ______________________________________________________
 
-* # [Pong Ping](https://people.rit.edu/aap5033/235/Proposal/index.html)
-* [Proposal](https://people.rit.edu/aap5033/235/Proposal/proposal.html)
-* [Documentation](https://people.rit.edu/aap5033/235/Proposal/documentation.html)
-* [Project](https://people.rit.edu/aap5033/235/Proposal/project.html)
+* # [Pong Ping](https://people.rit.edu/aap5033/235/project1/index.html)
+* [Proposal](https://people.rit.edu/aap5033/235/project1/proposal.html)
+* [Documentation](https://people.rit.edu/aap5033/235/project1/documentation.html)
+* [Project](https://people.rit.edu/aap5033/235/project1/project.html)
 ___
 # Documentation:
 * 10/3/19: Finished basic content and styling
@@ -106,11 +106,11 @@ ___
 # project.html
 ________________________________________________________
 
-* # [Pong Ping](https://people.rit.edu/aap5033/235/Proposal/index.html)
-* [Proposal](https://people.rit.edu/aap5033/235/Proposal/proposal.html)
-* [Documentation](https://people.rit.edu/aap5033/235/Proposal/documentation.html)
-* [Project](https://people.rit.edu/aap5033/235/Proposal/project.html)
+* # [Pong Ping](https://people.rit.edu/aap5033/235/project1/index.html)
+* [Proposal](https://people.rit.edu/aap5033/235/project1/proposal.html)
+* [Documentation](https://people.rit.edu/aap5033/235/project1/documentation.html)
+* [Project](https://people.rit.edu/aap5033/235/project1/project.html)
 ___
 
-![Project Placeholder](https://people.rit.edu/aap5033/235/Proposal/media/placeholder.png "Project")
+![Project Placeholder](https://people.rit.edu/aap5033/235/project1/media/placeholder.png "Project")
 &copy; Copyright Alex Parrotto 2019
