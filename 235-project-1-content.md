@@ -30,8 +30,8 @@ ___
 Pong Ping is a top-down, physics based fighting game where players knock themselves into each other to cause
 damage or ring out the opponent.
 
-*Genre: Fighting
-*Platform: Web
+* Genre: Fighting
+* Platform: Web
 
 ## Story
 In the faraway kingdom of Puckland, pucks looking for fame and glory engage in the kingdom's favorite sport, that
